@@ -1,5 +1,5 @@
 {
-  "name": "kurento-utils",
+  "name": "tribemedia-kurento-utils",
   "version": "6.0.0-dev",
   "description": "Kurento Utilities",
   "homepage": "http://www.kurento.org",
@@ -12,7 +12,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "Kurento/kurento-utils-js"
+    "url": "TribeMedia/kurento-utils-js"
   },
   "bugs": {
     "url": "https://github.com/Kurento/kurento-utils-js/issues",
