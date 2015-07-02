@@ -1,6 +1,6 @@
 {
   "name": "tribemedia-kurento-utils",
-  "version": "6.0.0-dev",
+  "version": "6.0.2-dev",
   "description": "Kurento Utilities",
   "homepage": "http://www.kurento.org",
   "license": "LGPL",
@@ -57,8 +57,5 @@
     "inherits": "^2.0.1",
     "merge": "^1.2.0",
     "ua-parser-js": "^0.7.6"
-  },
-  "optionalDependencies": {
-    "kurento-browser-extensions": "*"
   }
 }
